@@ -1,4 +1,4 @@
-# Capstone-machineleaning
+# Capstone-machine learning
 * The review link for the proposal is here[https://review.udacity.com/#!/reviews/501394]
 * The dataset could be download from Kagge[https://www.kaggle.com/xainano/handwrittenmathsymbols]
 * The project is done with the help of losts of tutorials and papers, thanks all.
